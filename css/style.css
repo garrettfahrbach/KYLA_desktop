@@ -11,10 +11,7 @@
    color: white;
 
  }
- .social-media, .newsletter, .contact-us {
 
-
- }
  h2 {
    text-align: center;
    padding-left: 50px;
@@ -30,7 +27,7 @@
     padding: 0;
     overflow: hidden;
     background-color: black;
-    position: absolute;
+    position: static;
     top: 330px;
     width: 100%;
     font-family: 'Cabin', sans-serif;
